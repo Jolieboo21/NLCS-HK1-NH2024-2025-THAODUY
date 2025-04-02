@@ -4,11 +4,11 @@ Sử dụng thư viện Medipipe Hand để điều khiền và dùng Uniy để
   <tr>
     <td align="center">
       <img src="images/Minhhoa.png" alt="Minh hoa" width="400"/>
-      <br>Trang onboarding
+      <br>Minh họa giao diện
     </td>
     <td align="center">
       <img src="images/toado.png" alt="Toa do" width="200"/>
-      <br>Danh sách công thức
+      <br>Các tọa độ được sử dụng
     </td>
   </tr>
 </table>
