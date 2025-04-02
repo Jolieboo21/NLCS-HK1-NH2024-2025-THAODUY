@@ -3,11 +3,11 @@ Sử dụng thư viện Medipipe Hand để điều khiền và dùng Uniy để
 <table>
   <tr>
     <td align="center">
-      <img src="images/Minhhoa.png alt="Trang onboarding" width="200"/>
+      <img src="images/Minhhoa.png" alt="Minh hoa" width="400"/>
       <br>Trang onboarding
     </td>
     <td align="center">
-      <img src="images/toado.png" alt="Danh sách công thức" width="200"/>
+      <img src="images/toado.png" alt="Toa do" width="200"/>
       <br>Danh sách công thức
     </td>
   </tr>
